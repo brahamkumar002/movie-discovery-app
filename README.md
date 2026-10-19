@@ -134,16 +134,6 @@ to support different screen sizes.
 - Tablet: Responsive movie grid
 - Mobile: Compact layout with adjusted movie cards
 
-## 📸 Screenshots
-
-Add screenshots of the application here.
-
-Suggested screenshots:
-- Homepage displaying popular movies
-- Movie search results
-- Movie details popup
-- Mobile responsive layout
-
 ## 🔮 Future Improvements
 
 - Movie genre filtering
@@ -155,9 +145,9 @@ Suggested screenshots:
 
 ## 👨‍💻 Author
 
-Your Name
+Braham Kumar Sah
 
-GitHub: https://github.com/YOUR_USERNAME
+GitHub: https://github.com/brahamkumar002
 
 ## 📄 Acknowledgment
 
